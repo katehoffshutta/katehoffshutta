@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello!
+
+- 🔭 I’m currently working on network models for multi-omic data
+- 📫 How to reach me: kshutta@hsph.harvard.edu
+- 😄 Pronouns: she/her
 
 <!--
 **katehoffshutta/katehoffshutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
